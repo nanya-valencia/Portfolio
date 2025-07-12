@@ -4,7 +4,7 @@
 Hello! I’m **Ifunanya Valencia Adeniyi** 🤓, a Data & Business Analyst with expertise in transforming HR and operational data into strategic insights. With a solid background in sales, customer service, and finance, I empower organizations to optimize processes and make data-driven decisions.
 
 <!--Section 2: Core skills and services-->
-## WHAT I DO
+## SKILLS
 
 As a **Data & Business Analyst**, I specialize in:
 
@@ -13,7 +13,7 @@ As a **Data & Business Analyst**, I specialize in:
   - Predictive modeling, KPI development, and performance tracking to drive business outcomes.
 
 <!--Section 3: Key projects-->
-## MY PORTFOLIO
+## MY PROJECTS
 
 Here are highlights from dashboards I’ve designed:
 
