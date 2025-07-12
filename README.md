@@ -22,12 +22,12 @@ Here are highlights from dashboards I’ve designed:
 - Analyzed satisfaction, work-life balance, and overtime to identify high-risk employee segments.  
 - Visualized attrition drivers by age, department, and performance rating.
 
-### 2. OK SOFT HR Attrition: Workforce & Retention Overview
-![OK Soft HR Dashboard 2 with Power BI.jpg)
-- Provided an interactive overview of attrition rates, tenure groups, and demographic breakdowns.  
-- Tracked retention metrics and departmental attrition trends in Power BI.
+### 2. Tansat Autos: Sales & Customer Insights
+![Tansat Autos Dashboard](assets/Tansat_Autos_Dashboard.jpeg)
+- Analyzed regional and temporal sales trends to identify peak periods and underperforming locations.
+- Segmented customer demographics, assessed discount impacts on unit price and volume, and evaluated product performance to inform pricing and inventory strategies.
 
-### 3. TAG OIL Performance Dashboard
+### 3. TAG OIL Performance Dashboard### 3. TAG OIL Performance Dashboard
 ![TAG OIL Performance Dashboard](assets/Tag_Oil_Performance.jpeg)
 - Monitored production costs, unit output, and training hours across rig locations.  
 - Benchmarked performance metrics against weekly targets to optimize operations.
