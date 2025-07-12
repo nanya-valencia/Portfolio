@@ -28,7 +28,7 @@ Here are highlights from dashboards I’ve designed:
 - Segmented customer demographics, assessed discount impacts on unit price and volume, and evaluated product performance to inform pricing and inventory strategies.
 
 ### 3. TAG OIL Performance Dashboard### 3. TAG OIL Performance Dashboard
-![TAG OIL Performance Dashboard](assets/Tag_Oil_Performance.jpeg)
+![Tag Oil Performance Dashboard with Power BI.jpg)
 - Monitored production costs, unit output, and training hours across rig locations.  
 - Benchmarked performance metrics against weekly targets to optimize operations.
 
