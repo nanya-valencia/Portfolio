@@ -23,7 +23,7 @@ Here are highlights from dashboards I’ve designed:
 - Visualized attrition drivers by age, department, and performance rating.
 
 ### 2. OK SOFT HR Attrition: Workforce & Retention Overview
-![OK SOFT HR Workforce & Retention](assets/OK_Soft_HR_Workforce_Overview.jpeg)
+![OK Soft HR Dashboard 2 with Power BI.jpg)
 - Provided an interactive overview of attrition rates, tenure groups, and demographic breakdowns.  
 - Tracked retention metrics and departmental attrition trends in Power BI.
 
