@@ -23,7 +23,7 @@ Here are highlights from dashboards I’ve designed:
 - Visualized attrition drivers by age, department, and performance rating.
 
 ### 2. Tansat Autos: Sales & Customer Insights
-![Tansat Autos Dashboard](assets/Tansat_Autos_Dashboard.jpeg)
+![tansat Autos dashboard .jpg)
 - Analyzed regional and temporal sales trends to identify peak periods and underperforming locations.
 - Segmented customer demographics, assessed discount impacts on unit price and volume, and evaluated product performance to inform pricing and inventory strategies.
 
