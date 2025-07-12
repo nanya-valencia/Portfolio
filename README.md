@@ -18,7 +18,7 @@ As a **Data & Business Analyst**, I specialize in:
 Here are highlights from dashboards I’ve designed:
 
 ### 1. OK SOFT HR Attrition: Satisfaction & Risk Insights
-![OK SOFT HR Attrition - Risk Insights](assets/OK_Soft_HR_Risk_Insights.jpeg)
+![OK Soft HR Dashboard 1 with Power BI.jpg)
 - Analyzed satisfaction, work-life balance, and overtime to identify high-risk employee segments.  
 - Visualized attrition drivers by age, department, and performance rating.
 
